@@ -13,7 +13,7 @@ Hoy estoy trabajando como desarrollador de software a la vez que curso el TSU en
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cisneros-3216a12bb/)
 
-# Tecnologias
+# Principales Tecnologias y Habilidades
 
 ## Lenguajes
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
