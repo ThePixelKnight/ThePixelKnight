@@ -7,7 +7,7 @@
 
 Empecé en el mundo de la programación a finales de 2022 de forma autodidacta, despues de graduarme como bachiller, gracias a un amigo que me introdujo a esta profesión.
 
-Hoy estoy trabajando como desarrollador de software a la vez que curso el TSU en informática en la universidad.
+Me especializo en el Front-End y me enfoco en hacer aplicaciones web y moviles con un estilo elegante y minimalista. Me gusta resolver problemas, desarrollar aplicaciones personales y de practica y aprender nuevas tecnologias y habilidades para ser mas habil hacer mi codigo mas eficiente, limpio y mantenible.
 
 # Consigueme en:   
 
