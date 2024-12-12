@@ -1,5 +1,5 @@
 # Hola, soy Gabriel Cisneros 👋
-### Software Developer 👨‍💻 | Estudiante 📚
+### Front-End Software Developer 👨‍💻 | Estudiante 📚
 
  ![Laboratory 研究室](https://github.com/user-attachments/assets/7458da00-22e5-4bac-a09c-371adff77328)
 
