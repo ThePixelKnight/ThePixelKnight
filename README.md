@@ -9,7 +9,7 @@ Empecé en el mundo de la programación a finales de 2022 de forma autodidacta, 
 
 Me especializo en el Front-End y me enfoco en hacer aplicaciones web y moviles con un estilo elegante y minimalista. Me gusta resolver problemas, desarrollar aplicaciones personales, mejorar mis habilidades y sigo aprendiendo nuevas tecnologias y habilidades para ser mas habil y eficiente como desarrollador.
 
-# Consigueme en:   
+# Consigueme tambien en:   
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cisneros-3216a12bb/)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/elgabrielcisneros)
