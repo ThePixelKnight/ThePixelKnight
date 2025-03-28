@@ -12,7 +12,7 @@ Me especializo en el Front-End y me enfoco en hacer aplicaciones web y moviles c
 # Consigueme en:   
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cisneros-3216a12bb/)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)(https://gitlab.com/elgabrielcisneros)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/elgabrielcisneros)
 
 # Principales Tecnologias y Habilidades
 
